@@ -6,10 +6,11 @@
         <option value="$PROJECT_DIR$/spring-boot-web/pom.xml" />
         <option value="$PROJECT_DIR$/config/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-test/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
