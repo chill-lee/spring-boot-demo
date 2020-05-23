@@ -1,0 +1,12 @@
+#person:
+#  lastName: 李爸爸
+#  age: 22
+#  boss: false
+#  birth: 2020/07/08
+#  maps: {k1: v1,k2: v2}
+#  lists: [list1,dog,cat,pig]
+#  dog:
+#    name: 小黄
+#    age: 3
+server:
+  port: 8081
