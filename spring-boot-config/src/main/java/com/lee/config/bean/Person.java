@@ -1,11 +1,12 @@
 package com.lee.config.bean;
 
-import org.hibernate.validator.constraints.Email;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.annotation.Validated;
 
+import javax.validation.constraints.Email;
+import javax.validation.constraints.Max;
 import java.lang.annotation.Documented;
 import java.util.Date;
 import java.util.List;
@@ -23,12 +24,18 @@ public class Person {
     /**
      * @Value spring中bean注入
      */
-    //@Value("${person.last-name}")
-    //mail
+    /**
+     * @Value("${person.last-name}")
+     * @Email
+     */
     private String LastName;
-    //@Value("#{10*2}")
+    /**
+     * @Value("#{10*2}")
+     */
     private Integer age;
-    //@Value("true")
+    /**
+     * @Value("true")
+     */
     private Boolean boss;
     private Date birth;
 
