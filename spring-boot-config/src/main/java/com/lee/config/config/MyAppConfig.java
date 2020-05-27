@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @author: Chill
  * @Date: 2020/5/27 16:22
- * @Configuration当前类是一个配置类
+ * @Configuration 当前类是一个配置类
  */
 
 @Configuration
