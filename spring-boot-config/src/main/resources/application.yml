@@ -6,7 +6,7 @@
 #  maps: {k1: v1,k2: v2}
 #  lists: [list1,dog,cat,pig]
 #  dog:
-#    name: 小黄
+#    name: zz
 #    age: 3
 server:
   port: 8081
