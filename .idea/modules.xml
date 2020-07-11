@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" filepath="$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-config-autoconfig.iml" filepath="$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-config-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-test/spring-boot-test.iml" filepath="$PROJECT_DIR$/spring-boot-test/spring-boot-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" filepath="$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" />
     </modules>
