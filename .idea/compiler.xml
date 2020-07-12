@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-test-imlfile" />
         <module name="spring-boot-logging" />
         <module name="spring-boot-config" />
         <module name="spring-boot-web" />
@@ -20,6 +21,7 @@
       <module name="spring-boot-config-autoconfig" target="1.8" />
       <module name="spring-boot-logging" target="1.8" />
       <module name="spring-boot-test" target="1.8" />
+      <module name="spring-boot-test-imlfile" target="1.8" />
       <module name="spring-boot-web" target="1.8" />
       <module name="spring-boot-web-restfulcrud" target="1.8" />
     </bytecodeTargetLevel>
@@ -31,6 +33,7 @@
       <module name="spring-boot-config-autoconfig" options="-parameters" />
       <module name="spring-boot-logging" options="-parameters" />
       <module name="spring-boot-test" options="-parameters" />
+      <module name="spring-boot-test-imlfile" options="-parameters" />
       <module name="spring-boot-web" options="-parameters" />
       <module name="spring-boot-web-restfulcrud" options="-parameters" />
     </option>

@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/spring-boot-config-autoconfig/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-logging/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-test-imlfile/pom.xml" />
       </list>
     </option>
   </component>
