@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" filepath="$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-config-autoconfig.iml" filepath="$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-config-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" filepath="$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-springmvc/spring-boot-springmvc.iml" filepath="$PROJECT_DIR$/spring-boot-springmvc/spring-boot-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-test/spring-boot-test.iml" filepath="$PROJECT_DIR$/spring-boot-test/spring-boot-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-test-imlfile/spring-boot-test-imlfile.iml" filepath="$PROJECT_DIR$/spring-boot-test-imlfile/spring-boot-test-imlfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" filepath="$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" />

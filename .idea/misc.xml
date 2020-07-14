@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/spring-boot-logging/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-web-restfulcrud/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-test-imlfile/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-springmvc/pom.xml" />
       </list>
     </option>
   </component>
